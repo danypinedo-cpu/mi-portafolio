@@ -37,7 +37,7 @@ Estudiante de Diseno y Desarrollo de Software en Tecsup.
 ## Enlaces utiles
  
 - [Guia oficial de Markdown](https://www.markdownguide.org/)
-- [Mi perfil de GitHub](https://github.com/TU-USUARIO)
+- [Mi perfil de GitHub](https://github.com/danypinedo-cpu)
  
 ## Captura de mi trabajo
  
